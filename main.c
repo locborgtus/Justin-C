@@ -22,6 +22,8 @@ int main(void) {
     2 * 3,
     69 / 3,
     10 % 3);
+
+  printf("hello\n");
   
   return 0;
 }
