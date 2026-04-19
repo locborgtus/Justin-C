@@ -18,5 +18,7 @@ Goal: Create a game that asks the user to guess a random number.
 1. The game must follow the steps
 2. The program must compile and run before showing
 3. The program must be checked into git
-    1. git add <filename>
-    2. git commit -m "<what I changed>"
+    1. `git status` to check what files have changed
+    2. `git add <filename>`
+    3. `git commit -m "<what I changed>"`
+    
